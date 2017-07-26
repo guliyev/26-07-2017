@@ -1,0 +1,41 @@
+$myheight:790px;
+
+
+
+.home{
+   background-image:url(../img/1.jpg);
+   height:$myheight;
+   background-repeat: no-repeat;
+   background-size: cover;
+    
+   .Text{
+       margin: 0 auto;
+       width: 60%;
+       height: 70%;
+       margin-top: 200px;
+       font-size: 28px;
+       color: #f3f5f8;
+      
+       h3{
+           font-size: 50px;
+           color: gold;
+           font-family: 'Playball'
+          
+       }
+         p{
+               font-size: 17px;
+               font-family: 'Playball'
+               
+           }
+   }
+        .Radio{
+           margin-top: 20%;
+           margin-left: 45%;
+        }
+        
+}
+
+
+
+
+

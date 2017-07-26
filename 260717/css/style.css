@@ -1,0 +1,26 @@
+.home {
+  background-image: url(../img/1.jpg);
+  height: 790px;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .home .Text {
+    margin: 0 auto;
+    width: 60%;
+    height: 70%;
+    margin-top: 200px;
+    font-size: 28px;
+    color: #f3f5f8; }
+    .home .Text h3 {
+      font-size: 50px;
+      color: gold;
+      font-family: "Playball"; }
+    .home .Text p {
+      font-size: 17px;
+      font-family: "Playball"; }
+  .home .Radio {
+    margin-top: 20%;
+    margin-left: 45%; }
+  .home .navbar .container .navbar-brand {
+    margin-left: 20%; }
+
+/*# sourceMappingURL=style.css.map */
